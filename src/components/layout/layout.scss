@@ -1,0 +1,40 @@
+.bodyContainer {
+
+    .mainBody {
+        min-height: max-content;
+        padding-left: 12%;
+        padding-right: 6%;
+        background-color: #ececec;
+
+        .mainHome {
+            .mainContent {
+                p {
+                    text-align: justify;
+                }
+            }
+        }
+    }
+
+    .govuk-header__logo {
+        margin: auto;
+        background-color: black;
+        padding-left: 4%;
+        padding-right: 3%;
+    }
+
+    .menuContainer {
+        background-color: #0879a5;
+
+        a {
+            font-size: 25px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+    }
+
+    .govuk-footer {
+        border-top: 3px solid;
+        padding-left: 4%;
+        padding-right: 3%;
+    }
+}
