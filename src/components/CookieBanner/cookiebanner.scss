@@ -1,0 +1,29 @@
+.CookieBanner {
+ .cookie_consent {
+    border: none;
+    font-size: 15px;
+    padding: 0.625rem 1.375rem;
+    font-weight: 600;
+    color: #ffffff !important;
+    margin-right : 5px;
+    margin-bottom: 5px;
+  }
+  .accept {
+    background-color: #1156d4;
+  }
+  .reject {
+    background-color: #5d5d5d !important;
+  }
+  h3 {
+    font-weight: 800;
+    font-size: 1.75rem;
+    line-height: 1.2;
+  }
+  p {
+    font-weight: 600;
+  }
+  a {
+    font-weight: bold;
+    color: rgba(0, 0, 0, .55);
+  }
+}
