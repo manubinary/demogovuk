@@ -20,6 +20,7 @@
         background-color: black;
         padding-left: 4%;
         padding-right: 3%;
+        height: 40px;
     }
 
     .menuContainer {
@@ -36,5 +37,13 @@
         border-top: 3px solid;
         padding-left: 4%;
         padding-right: 3%;
+    }
+
+    .navbar-nav {
+        a {
+            font-size: 25px;
+            font-weight: 700;
+            color: #ffffff !important;
+        }
     }
 }

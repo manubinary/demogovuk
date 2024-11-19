@@ -8,7 +8,7 @@ import './layout.scss';
 function Menu() {
 
   return (
-      <Navbar expand="lg" className="bg-body-tertiary">
+      <Navbar sticky="top" bg="primary" data-bs-theme="dark" expand="lg" className="bg-body-tertiary">
         <Container>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
