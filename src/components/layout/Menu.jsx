@@ -16,6 +16,7 @@ function Menu() {
               <Nav.Link href="/">Home</Nav.Link>
               <Nav.Link href="/form">Form</Nav.Link>
               <Nav.Link href="/table">Table</Nav.Link>
+              <Nav.Link href="/intractive">Intractive Elements</Nav.Link>
               {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
